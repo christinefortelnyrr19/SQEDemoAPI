@@ -3,11 +3,21 @@
     { "id": 1, "title": "Test 1", "toppings":["mushroom","cheese"]},
     { "id": 2, "title": "Test 2" },
     { "id": 3, "title": "Test 3" },
-    { "id": 4, "title": "Test 4" }
+    { "id": 4, "title": "Test 4" },
+    { "id": 5, "title": "Test 5" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment test", "postId": 1 },
-    { "id": 2, "body": "some comment test", "postId": 1 }
+  "toppings": [
+    { "id": 1, "name": "Diced Mango" },
+    { "id": 2, "name": "Olives" },
+    { "id": 3, "name": "Mushrooms" },
+    { "id": 4, "name": "Caramelized onions" },
+    { "id": 5, "name": "Italian Ham" },
+    { "id": 6, "name": "Classic Pepperoni" },
+    { "id": 7, "name": "Salami" },
+    { "id": 8, "name": "Provolone cheese" },
+    { "id": 9, "name": "Extra cheese" },
+    { "id": 10, "name": "Mozzarella cheese" },
+    { "id": 11, "name": "Parmesan cheese" }
   ],
   "profile": {
     "name": ""
