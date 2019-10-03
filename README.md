@@ -3,7 +3,7 @@ Spec for the Pizza Demo API.
 
 #### API Endpoints
 1.  [Toppings](#toppings)
-    1. [GET /toppings] (#get-toppings)
+    1. [GET /toppings] (#GET /Toppings)
     1. [POST /toppings]
     1. [DELETE /toppings]
 
