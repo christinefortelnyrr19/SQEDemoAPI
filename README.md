@@ -26,8 +26,24 @@ EXAMPLE RESPONSE:<br>
     <tr>
         <td valign="top" align="left">REQUEST</td>
         <td valign="top" align="left">/toppings</td>
-        
-     </tr>
+    </tr>  
+     <tr>
+        <td valign="top" align="left">DESCRPTION</td>
+        <td valign="top" align="left">Get List of all toppings</td>
+    </tr>  
+	<tr>
+        <td valign="top" align="left">EXAMPLE RESPONSE</td>
+        <td valign="top" align="left">
+		```
+[
+	{
+		"id": 1,
+		   "name": "Diced Mango"
+	}
+]
+```
+		</td>
+     </tr>  
 </table>
 
 ### POST /toppings
