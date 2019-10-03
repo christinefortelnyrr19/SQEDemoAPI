@@ -9,7 +9,7 @@ Spec for the Pizza Demo API.
 
 
 ## Toppings
-### GET /Toppings
+### GET /toppings
 
 ### POST /toppings
 
